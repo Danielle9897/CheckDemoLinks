@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPXgE8pE+KY2FvVD6dsUnSWJC3D1xZ0IV9NNIXSS6yEEtHTs88pm/Dqy6HTR13x4yAYE0OzOMrSPwpXiToHklQ==",
+  "success": true,
+  "projectFilePath": "E:\\CheckURLs\\CheckURLs\\CheckURLs\\CheckURLs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danielle\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Danielle\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Danielle\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Danielle\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Danielle\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

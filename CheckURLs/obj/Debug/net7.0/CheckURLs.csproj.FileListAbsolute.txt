@@ -1,0 +1,17 @@
+E:\CheckURLs\CheckURLs\CheckURLs\bin\Debug\net7.0\CheckURLs.exe
+E:\CheckURLs\CheckURLs\CheckURLs\bin\Debug\net7.0\CheckURLs.deps.json
+E:\CheckURLs\CheckURLs\CheckURLs\bin\Debug\net7.0\CheckURLs.runtimeconfig.json
+E:\CheckURLs\CheckURLs\CheckURLs\bin\Debug\net7.0\CheckURLs.dll
+E:\CheckURLs\CheckURLs\CheckURLs\bin\Debug\net7.0\CheckURLs.pdb
+E:\CheckURLs\CheckURLs\CheckURLs\obj\Debug\net7.0\CheckURLs.GeneratedMSBuildEditorConfig.editorconfig
+E:\CheckURLs\CheckURLs\CheckURLs\obj\Debug\net7.0\CheckURLs.AssemblyInfoInputs.cache
+E:\CheckURLs\CheckURLs\CheckURLs\obj\Debug\net7.0\CheckURLs.AssemblyInfo.cs
+E:\CheckURLs\CheckURLs\CheckURLs\obj\Debug\net7.0\CheckURLs.csproj.CoreCompileInputs.cache
+E:\CheckURLs\CheckURLs\CheckURLs\obj\Debug\net7.0\CheckURLs.dll
+E:\CheckURLs\CheckURLs\CheckURLs\obj\Debug\net7.0\refint\CheckURLs.dll
+E:\CheckURLs\CheckURLs\CheckURLs\obj\Debug\net7.0\CheckURLs.pdb
+E:\CheckURLs\CheckURLs\CheckURLs\obj\Debug\net7.0\CheckURLs.genruntimeconfig.cache
+E:\CheckURLs\CheckURLs\CheckURLs\obj\Debug\net7.0\ref\CheckURLs.dll
+E:\CheckURLs\CheckURLs\CheckURLs\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\CheckURLs\CheckURLs\CheckURLs\obj\Debug\net7.0\CheckURLs.csproj.AssemblyReference.cache
+E:\CheckURLs\CheckURLs\CheckURLs\obj\Debug\net7.0\CheckURLs.csproj.CopyComplete
